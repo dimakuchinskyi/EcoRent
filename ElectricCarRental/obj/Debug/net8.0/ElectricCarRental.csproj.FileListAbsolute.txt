@@ -1,0 +1,14 @@
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\bin\Debug\net8.0\ElectricCarRental.exe
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\bin\Debug\net8.0\ElectricCarRental.deps.json
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\bin\Debug\net8.0\ElectricCarRental.runtimeconfig.json
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\bin\Debug\net8.0\ElectricCarRental.dll
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\bin\Debug\net8.0\ElectricCarRental.pdb
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.AssemblyInfo.cs
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.dll
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\refint\ElectricCarRental.dll
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.pdb
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ElectricCarRental.genruntimeconfig.cache
+C:\Users\dima\Desktop\Робота\ElectricCarRental\ElectricCarRental\obj\Debug\net8.0\ref\ElectricCarRental.dll
